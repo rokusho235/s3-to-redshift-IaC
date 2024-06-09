@@ -1,4 +1,4 @@
-﻿# s3-to-redshift-project
+﻿# s3-to-redshift-factory-project
 
 creating Redshift cluster using Python IaC and loading data from s3 txt files into Redshift DB
 
